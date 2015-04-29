@@ -1,5 +1,5 @@
 === HeadlineEnvy - headline testing with Optimizely ===
-Contributors: borkweb, zbtirrell
+Contributors: borkweb, zbtirrell, methnen
 Tags: a/b testing, headline, optimization, optimizely, post, page, testing, title
 Requires at least: 3.9
 Tested up to: 4.2
@@ -20,6 +20,8 @@ __Features include:__
 * __Test headlines anywhere.__ Headline variations are applied to any place that your titles are output regardless of whether they appear on a post page, in the navigation, etc.
 * __Experiment results.__ Revisit posts in the dashboard to check the status of headline statistical significance while your headline experiments are executed.
 * __Automatic headline selection.__ Optionally choose to let HeadlineEnvy and Optimizely detect statistically significant winners and automatically update the post with the winning title.
+
+To contribute, report issues, or make feature requests use [Github](https://github.com/methnen/m-chart).
 
 Visit
 [http://www.funnelenvy.com/headlineenvy-wordpress-optimizely](http://www.funnelenvy.com/headlineenvy-wordpress-optimizely) for official support of this plugin.
